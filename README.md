@@ -148,4 +148,4 @@ end
 
 That's all for now—we'll discuss `case` statements and looping in upcoming lessons.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/conditional-readme' title='Control Flow'>Control Flow</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Control Flow</p>
